@@ -1,7 +1,7 @@
 {
   "name": "mayuri-fegade-portfolio",
   "version": "0.1.0",
-  "homepage": "https://mayurifegade0606.github.io",
+  "homepage": "https://mayurifegade0606.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
