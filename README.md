@@ -1,8 +1,10 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website]([[https://mayurifegade0606.github.io/](https://mayurifegade0606.github.io/portfolio
-)])
+## 🔗 Live Website
+
+[Click here to view the live portfolio](https://mayurifegade0606.github.io/portfolio)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
