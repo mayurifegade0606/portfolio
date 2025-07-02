@@ -17,7 +17,7 @@ export const Bio = {
     "I am a motivated and versatile Computer Engineering graduate with a passion for Python, AI/ML, and web development. Always eager to take on new challenges, I’ve gained hands-on experience through internships where I worked on automation testing tools and integrated ML modules. With key projects like CropShield—a crop disease detection system using TensorFlow—I am dedicated to delivering impactful, real-world solutions. With a positive attitude, strong technical skills, and a growth mindset, I am ready to contribute meaningfully and achieve great things.",
   github: "https://github.com/mayurifegade0606/",
   resume:
-    "https://drive.google.com/file/d/1kgebOJSlfGt0JcUXHTKzUVsaz7hqGTK8/view?usp=drive_link",
+    "https://drive.google.com/file/d/1P5ivlUi5exXxm8dnwk5NHqeU-IE_TWeL/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/mayuri-fegade-bb0370220/",
   
 };
