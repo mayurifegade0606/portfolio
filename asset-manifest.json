@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.52453b52.js",
+    "main.js": "/portfolio/static/js/main.22fe44c3.js",
+    "static/media/smart-ingredient.PNG": "/portfolio/static/media/smart-ingredient.0050da04992a639a315c.PNG",
     "static/media/Mayuri.jpg": "/portfolio/static/media/Mayuri.c775fe2ebb5a1bb9ca0b.jpg",
     "static/media/ss1 (1).png": "/portfolio/static/media/ss1 (1).00387bb66319dbfe7175.png",
     "static/media/ekart.png": "/portfolio/static/media/ekart.5971e4c9979b67cd37fa.png",
@@ -12,10 +13,10 @@
     "static/media/gpj.jfif": "/portfolio/static/media/gpj.27bf1d569d3f7efabf8c.jfif",
     "index.html": "/portfolio/index.html",
     "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.52453b52.js.map": "/portfolio/static/js/main.52453b52.js.map"
+    "main.22fe44c3.js.map": "/portfolio/static/js/main.22fe44c3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.52453b52.js"
+    "static/js/main.22fe44c3.js"
   ]
 }
