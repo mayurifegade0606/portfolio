@@ -3,6 +3,7 @@ import kasnetLogo from "../images/kasnet.png"
 import CropShield from "../images/1.Home Page.jpeg"
 import learnio from "../images/ss1 (1).png"
 import ekart from "../images/ekart.png"
+import smart_ingredient from "../images/smart-ingredient.PNG"
 import gpj from "../images/gpj.jfif"
 import sit from "../images/sit.jfif"
 export const Bio = {
@@ -229,8 +230,22 @@ export const projects = [
     image:
       ekart,
     tags: ["HTML", "CSS", "Javascript", "PHP"],
-    category: "machine learning",
+    category:  "web app",
     github: "https://github.com/mayurifegade0606/E-kart-Project",
+    // webapp: "https://brain-tumor.netlify.app/",
+    
+  },
+  {
+    id: 3,
+    title: "Smart Ingredient Watch",
+    date: "June 2025",
+    description:
+      "AI-powered system that detects harmful food additives using OCR, NLP, and a trained machine learning model. User-friendly interface to upload label images or manually enter ingredients for real-time analysis.Color-codedalerts(Red, Yellow, Green) show therisk level and possible side effects for each ingredient",
+    image:
+      smart_ingredient,
+    tags: ["Python", "Tesseract", "OCR", "Pillow"],
+    category: ["machine learning","web app"],
+    github: "https://github.com/mayurifegade0606/smart-ingredient-watch",
     // webapp: "https://brain-tumor.netlify.app/",
     
   },
